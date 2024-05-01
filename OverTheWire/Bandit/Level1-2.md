@@ -2,12 +2,17 @@
 
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/76a8bae0-c960-4241-828a-2ab38bb0d6ab)
 
-- $ ssh bandit.labs.overthewire.org -p 2220 -l bandit1
-> ssh [User]@[Serveradress or IP] -p [Port] -l [Username]
-- Enter Password:
-- $ boJ9jbbUNNfktd78OOpsqOltutMc3MY1
-- $ cat ./-
+- $ ssh bandit1@bandit.labs.overthewire.org -p 2220
 
-> CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+- Enter Password: $ NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+
+- $ cat < -
+
+> <: Input redirection to read the contents of the file.
+> Next level password is stored in a file called - in the home directory.
+
+![image](https://github.com/zkbyqd/Write-ups/assets/90260119/bf5dc8b5-e9de-4bc6-b01c-ddc89a1f243a)
+
+> rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
 - $ exit
