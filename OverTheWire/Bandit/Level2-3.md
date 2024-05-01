@@ -12,6 +12,8 @@
 
 - $ cat "spaces in this filename"
 
+> cat "spaces in this filename": reads the content of the file named "spaces in this filename".
+
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/3ddcfa97-c569-434f-8233-a75689c52ed6)
 
 > aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
