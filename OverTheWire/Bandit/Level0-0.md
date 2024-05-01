@@ -4,8 +4,6 @@
 
 - $ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
-> ssh [User]@[Serveradress or IP] -p [Port]
-
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/0c751293-85bf-4218-87ce-6facdae95909)
 
 - $ bandit0
