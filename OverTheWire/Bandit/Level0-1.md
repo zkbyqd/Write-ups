@@ -12,9 +12,13 @@
 
 - $ ls
 
+> ls: lists the files and directories in the current working directory.
+
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/96ae0ccc-9efe-4551-ac96-be7fcc4d3b37)
 
 - $ cat readme
+
+> cat: reads data from files and outputs their contents to the terminal.
 
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/5d1272d2-7907-446b-a8f6-a02a2f829a62)
 
