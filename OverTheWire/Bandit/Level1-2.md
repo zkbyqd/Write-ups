@@ -4,7 +4,7 @@
 
 - $ ssh bandit.labs.overthewire.org -p 2220 -l bandit1
 > ssh [User]@[Serveradress odr IP] -p [Port] -l [Username]
-- Enter Password: \
+- Enter Password:
 - $ boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 - $ cat ./-
 
