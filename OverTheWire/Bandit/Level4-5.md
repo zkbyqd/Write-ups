@@ -14,6 +14,8 @@
 
 - $ file ./-file*
 
+> file ./-file*:  used to determine the type of a file by examining its contents rather than relying on its filename extension. In this case, ./-file* is a pattern specifying files whose names start with -file.
+
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/527608c0-7fff-441f-b142-a62005a76082)
 
 - $ cat ./-file07
