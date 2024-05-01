@@ -11,11 +11,15 @@
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/bd6df44c-7770-4b24-8c2e-a5477e5d398b)
 
 - $ ls
+  
 ls: list
+
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/96ae0ccc-9efe-4551-ac96-be7fcc4d3b37)
 
 - $ cat readme
+  
 cat: display the contents of files
+
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/5d1272d2-7907-446b-a8f6-a02a2f829a62)
 
 > NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
