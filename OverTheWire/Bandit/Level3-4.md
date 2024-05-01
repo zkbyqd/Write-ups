@@ -12,9 +12,13 @@
 
 - $ cd inhere/
 
+> cd inhere/: changes directory to the folder inhere.
+
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/fac88b20-8a77-4d90-a509-253b97e408eb)
 
 - $ ls -a
+
+> -a: also lists hidden files.
 
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/9665d10a-d24c-4aad-b2d9-9902abddfb41)
 
