@@ -8,6 +8,8 @@
 
 - $ cat < -
 
+< : input redirection to read the contents of the file 
+
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/bf5dc8b5-e9de-4bc6-b01c-ddc89a1f243a)
 
 > rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
