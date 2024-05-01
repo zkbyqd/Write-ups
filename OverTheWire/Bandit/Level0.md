@@ -1,6 +1,6 @@
 # Bandit: Level 0
 
-![bandit_level0](https://i.imgur.com/HxOE3bz.png)
+![bandit_level0](https://i.imgur.com/k06sCTa.png)
 
 - $ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
