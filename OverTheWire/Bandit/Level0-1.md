@@ -14,7 +14,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 bandit0
 ```
 
-![image](https://github.com/zkbyqd/Write-ups/assets/90260119/bd6df44c-7770-4b24-8c2e-a5477e5d398b)
+![image](https://github.com/zkbyqd/Write-ups/assets/90260119/170b48a1-2869-4813-8300-5ce61ab418e6)
 
 ```
 ls
