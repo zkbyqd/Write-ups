@@ -6,7 +6,6 @@
   
 - Enter Password: $ JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 
-- $ ls
-
+- $ 
 
 - $ exit
