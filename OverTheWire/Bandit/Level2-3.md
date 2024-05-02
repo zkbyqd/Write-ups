@@ -2,15 +2,24 @@
 
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/fa13fd24-3335-4c08-84e4-c93ae15525af)
 
-- $ ssh bandit2@bandit.labs.overthewire.org -p 2220
-  
-- Enter Password: $ rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
-  
-- $ ls
+```
+ssh bandit2@bandit.labs.overthewire.org -p 2220
+```
+
+- Enter Password:
+```
+rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+```
+
+```
+ls
+```
   
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/176a7b2b-1d50-4a28-a667-0174aecaca21)
 
-- $ cat "spaces in this filename"
+```
+cat "spaces in this filename"
+```
 
 > cat "spaces in this filename": reads the content of the file named "spaces in this filename".
 
@@ -18,4 +27,6 @@
 
 > aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 
-- $ exit
+```
+exit
+```
