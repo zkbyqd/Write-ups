@@ -11,6 +11,7 @@
 - $ cat data.txt | grep millionth
 
 > cat data.txt: reads the content of the file and prints it. \
+> | : takes the standard output of the command on its left and passes it as the standard input to the command on its right. \
 > grep millionth: searches for the word "millionth" in the input it receives from the previous command.
 
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/b6855548-699b-463d-90fd-ebdca7f5864a)
