@@ -2,7 +2,9 @@
 
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/c2e82dee-f845-4a53-8972-56e1a038d23c)
 
-- $ ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
+$ ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
 
 > ssh [Username]@[Domain or IP] -p [Port]
 
