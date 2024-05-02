@@ -2,11 +2,18 @@
 
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/76a8bae0-c960-4241-828a-2ab38bb0d6ab)
 
-- $ ssh bandit1@bandit.labs.overthewire.org -p 2220
+```
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+```
 
-- Enter Password: $ NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+- Enter Password:
+```
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+```
 
-- $ cat < -
+```
+cat < -
+```
 
 < : input redirection to read the contents of the file 
 
@@ -14,4 +21,6 @@
 
 > rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
-- $ exit
+```
+exit
+```
