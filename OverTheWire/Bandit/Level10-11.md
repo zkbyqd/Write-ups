@@ -14,6 +14,8 @@
 
 - $ cat data.txt | base64 -d
 
+> cat data.txt | base64 -d: reads the data.txt and redirect the output to the base64 command. The -d argument is used to decode the string.
+
 ![image](https://github.com/zkbyqd/Write-ups/assets/90260119/c77c5f7b-72b3-4aba-bbdc-41e3c0f18416)
 
 > 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
